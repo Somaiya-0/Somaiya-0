@@ -48,9 +48,9 @@
  
 ## 🔬 Research Interests
  
-- **Machine Learning** — ensemble and stacking models (scikit-learn, XGBoost, LightGBM, CatBoost), class imbalance handling (SMOTEENN), threshold tuning, leakage-controlled evaluation with patient-level splits, external validation across datasets
-- **Artificial Intelligence** — deep learning (GRU with TensorFlow/Keras and PyTorch) and explainable AI (SHAP, LIME) for clinical risk prediction
-- **Bioinformatics** — RNA-seq transcriptomics on TCGA-BRCA data, differential gene expression (DEG) analysis with edgeR and limma-voom, data retrieval with TCGAbiolinks
+- **Machine Learning** — stacking ensembles and hierarchical (multi-level) classification; Boruta feature selection and elastic-net regularisation for high-dimensional gene-expression data; class imbalance handling (SMOTE, SMOTEENN) inside leakage-safe pipelines; hyperparameter tuning, nested and repeated cross-validation, threshold selection from out-of-fold predictions; bootstrap confidence intervals and imbalance-aware metrics (balanced accuracy, MCC, ROC-AUC, PR-AUC)
+- **Artificial Intelligence** — deep learning (GRU) and explainable AI (SHAP Kernel/Linear explainers, LIME) for clinical and biomedical prediction
+- **Bioinformatics** — RNA-seq transcriptomics (TCGA-BRCA), data retrieval with TCGAbiolinks, normalisation and differential expression with edgeR and limma-voom, subtype-adjusted (PAM50) analysis, GO/KEGG enrichment, protein–protein interaction networks (STRING), and gene set enrichment analysis (GSEA)
 ---
  
 ## 🔬 Research & Publications
@@ -86,6 +86,8 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
  
 **Languages**
  
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -106,6 +108,8 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
 ![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
 ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+![imbalanced-learn](https://img.shields.io/badge/imbalanced--learn-5C6BC0?style=for-the-badge)
+![BorutaPy](https://img.shields.io/badge/BorutaPy-795548?style=for-the-badge)
  
 *Data Analysis & Visualization*
  
@@ -122,7 +126,12 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
 *Methods*
  
 ![Ensemble Learning](https://img.shields.io/badge/Ensemble%20%26%20Stacking-FF6F00?style=for-the-badge)
-![SMOTEENN](https://img.shields.io/badge/SMOTEENN-E65100?style=for-the-badge)
+![Hierarchical Classification](https://img.shields.io/badge/Hierarchical%20Classification-F57C00?style=for-the-badge)
+![Feature Selection](https://img.shields.io/badge/Feature%20Selection-Boruta-EF6C00?style=for-the-badge)
+![Elastic-Net](https://img.shields.io/badge/Elastic--Net-E65100?style=for-the-badge)
+![SMOTE / SMOTEENN](https://img.shields.io/badge/SMOTE%20%2F%20SMOTEENN-BF360C?style=for-the-badge)
+![Nested CV](https://img.shields.io/badge/Nested%20%26%20Repeated%20CV-D84315?style=for-the-badge)
+![Leakage-Controlled Evaluation](https://img.shields.io/badge/Leakage--Controlled%20Evaluation-C62828?style=for-the-badge)
 ![GRU](https://img.shields.io/badge/Deep%20Learning-GRU-6A1B9A?style=for-the-badge)
 ![XAI](https://img.shields.io/badge/Explainable%20AI-XAI-8E24AA?style=for-the-badge)
  
@@ -133,6 +142,9 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
 ![edgeR](https://img.shields.io/badge/edgeR-388E3C?style=for-the-badge)
 ![limma-voom](https://img.shields.io/badge/limma--voom-43A047?style=for-the-badge)
 ![RNA-seq](https://img.shields.io/badge/RNA--seq%20%7C%20DEG%20Analysis-1B5E20?style=for-the-badge)
+![GO / KEGG](https://img.shields.io/badge/GO%20%2F%20KEGG%20Enrichment-00796B?style=for-the-badge)
+![GSEA](https://img.shields.io/badge/GSEA-00897B?style=for-the-badge)
+![STRING PPI](https://img.shields.io/badge/STRING-PPI%20Networks-26A69A?style=for-the-badge)
 ![TCGA](https://img.shields.io/badge/Data-TCGA%20%2F%20GDC-00695C?style=for-the-badge)
  
 **Frameworks**
