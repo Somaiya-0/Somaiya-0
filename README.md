@@ -48,8 +48,8 @@
  
 ## 🔬 Research Interests
  
-- **Machine Learning** — ensemble and stacking models, class imbalance handling (SMOTEENN), threshold tuning, leakage-controlled evaluation with patient-level splits, external validation across datasets
-- **Artificial Intelligence** — deep learning (GRU) and explainable AI (XAI) for clinical risk prediction
+- **Machine Learning** — ensemble and stacking models (scikit-learn, XGBoost, LightGBM, CatBoost), class imbalance handling (SMOTEENN), threshold tuning, leakage-controlled evaluation with patient-level splits, external validation across datasets
+- **Artificial Intelligence** — deep learning (GRU with TensorFlow/Keras and PyTorch) and explainable AI (SHAP, LIME) for clinical risk prediction
 - **Bioinformatics** — RNA-seq transcriptomics on TCGA-BRCA data, differential gene expression (DEG) analysis with edgeR and limma-voom, data retrieval with TCGAbiolinks
 ---
  
@@ -94,7 +94,32 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
  
 **Machine Learning, AI & Bioinformatics**
  
-*Machine Learning & AI*
+*Deep Learning*
+ 
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+ 
+*Machine Learning*
+ 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge)
+![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge)
+![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logoColor=black)
+ 
+*Data Analysis & Visualization*
+ 
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+ 
+*Explainable AI*
+ 
+![SHAP](https://img.shields.io/badge/SHAP-FF0D57?style=for-the-badge)
+![LIME](https://img.shields.io/badge/LIME-32CD32?style=for-the-badge)
+ 
+*Methods*
  
 ![Ensemble Learning](https://img.shields.io/badge/Ensemble%20%26%20Stacking-FF6F00?style=for-the-badge)
 ![SMOTEENN](https://img.shields.io/badge/SMOTEENN-E65100?style=for-the-badge)
@@ -120,6 +145,13 @@ A conference paper on brain stroke prediction using ensemble machine learning, w
  
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
+ 
+**Environments**
+ 
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudioide&logoColor=white)
  
 **Tools**
  
